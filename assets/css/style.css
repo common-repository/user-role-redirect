@@ -1,0 +1,57 @@
+.settings_page_user_role_redirect .widefat tbody td.row-heading p,
+.settings_page_user_role_redirect .widefat tbody span.row-heading,
+.settings_page_user_role_redirect  tbody td.row-heading{
+	font-weight: bold;
+	opacity: 0.9;
+	text-transform: capitalize;
+}
+.settings_page_user_role_redirect .widefat{
+	padding: 10px;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+}
+.settings_page_user_role_redirect .widefat tr th,
+.settings_page_user_role_redirect .widefat tr td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.settings_page_user_role_redirect .widefat tbody tr {
+    background-color: #f6f7f7;
+}
+.settings_page_user_role_redirect .widefat tr:last-child:after{
+	display: none;
+}
+.settings_page_user_role_redirect .input--title{
+	color: #646970;
+	margin-bottom: 5px;
+    display: inline-block;
+}
+.settings_page_user_role_redirect .widefat p .input--title{
+	margin-top: 10px;
+}
+.settings_page_user_role_redirect .widefat p:first-child .input--title {
+    margin-top: 0;
+}
+.settings_page_user_role_redirect .section-pd h3{
+	margin-top: 0;
+    text-transform: uppercase;
+}
+.settings_page_user_role_redirect .section-pd{
+	padding: 20px 0;
+}
+.settings_page_user_role_redirect .specific--section .btn{
+	margin: 0;
+}
+.settings_page_user_role_redirect .specific--section tbody td{
+	padding: 2px;
+}
+.settings_page_user_role_redirect .specific--section tbody tr:last-child td{
+	padding-top: 10px;
+}
+.settings_page_user_role_redirect .widefat td p.widefat-btn{
+	font-size: 0;
+}
+.settings_page_user_role_redirect input.button{
+	margin-right: 6px !important;
+}
